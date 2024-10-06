@@ -1,0 +1,76 @@
+.bg-img {
+    background-image: url('/Assests/img/federico-beccari-L8126OwlroY-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+    position: static;
+}
+
+/* .navbar {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    /* z-index: 1000;z */
+ */
+
+carousel-item>img {
+    margin-right: 50%;
+}
+
+.sizing {
+    font-size: 20px;
+}
+
+.btn-c {
+    margin-top: -2px;
+    margin-bottom: 20px;
+    justify-content: center;
+    position: absolute;
+    margin-left: 45%;
+    background-color: rgb(1, 247, 255);
+    text-decoration: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.table-e {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin-left: auto;
+    margin-top: 50px;
+    border-color: brown;
+    border: 5px;
+    border-collapse: collapse;
+    padding: 6px;
+}
+
+.art-c {
+    justify-content: space-between;
+    margin-left: 30%;
+    text-align: justify;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.card {
+    transition: all 0.3s;
+}
+
+.card-e:hover {
+    transform: scale(1.15);
+}
+
+.row,
+.card-e {
+    background-color: transparent;
+    width: 200em;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-left: 80px;
+    margin-right: 70px;
+}
+
+.bg-e{
+    background-image: url(https://images.unsplash.com/photo-1504333638930-c8787321eee0?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+    
+
+}
